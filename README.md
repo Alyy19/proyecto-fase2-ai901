@@ -17,10 +17,4 @@ Prototipo del Proyecto de implementación de IA. Asistente de IA que ayuda a enc
 - Exportar la conversación en Markdown.
 - Aviso de IA, modo claro/oscuro y diseño para celular.
 
-## Ejecutar en local
-1. Copia `.env.example` a `.env` y completa tus datos de Foundry.
-2. `npm install`
-3. `az login`
-4. `npm run dev` → http://localhost:3000
-
 El archivo `.env` no se sube al repositorio.
